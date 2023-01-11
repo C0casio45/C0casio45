@@ -5,8 +5,8 @@
 
 ## I'm a french student at [CESI][CESIweb] engineer school
 - 🔴 I'm a streamer on [Twitch][twitch]
-- 🖥️ I'm actually take a look at typescript
-- 🔥 2022 goal: using more github
+- 🖥️ I'm actually take a look at qwik
+- 🔥 2023 goal: participate to open source project
 
 ## Connect with me:
 
