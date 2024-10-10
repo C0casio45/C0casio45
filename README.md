@@ -31,3 +31,4 @@
 [parenthesis]: https://lancrebleue.com/
 [lancrebleue]: https://parenthesis-ecrivain-public.fr/
 [vclan]: https://www.faceit.com/fr/clan/a002d8a2-3509-4b7c-b962-7c8305e8f45e/V%20Clan/chat
+[shaman]: https://shamanstudio.com/
